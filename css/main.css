@@ -103,13 +103,13 @@ input:focus
 	float: left;
 }
 .back_top{
-	background-image:url("../drawable/bg.png");
+	background-image:url("../drawable/landing.png");
 	height: 650px;
 	top: 0px;
 	box-sizing:border-box;
 }
 .backl_top{
-	background-image:url("../drawable/landing.png");
+	background-image:url("../drawable/bg.png");
 	height: 650px;
 	top: 0px;
 	box-sizing:border-box;
